@@ -1,6 +1,6 @@
 # Birthday Surprise Website for Gungun
 
-This is a fully responsive, visually aesthetic static website built as a birthday surprise for Gungun (Ashmita Dey).
+This is a fully responsive, visually aesthetic static website built as a birthday surprise for Soumi.
 
 ## 🚀 How to set up your assets
 
